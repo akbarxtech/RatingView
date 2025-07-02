@@ -15,6 +15,8 @@ import android.util.TypedValue;
 import android.view.MotionEvent;
 import android.view.View;
 
+import com.github.akbarxtech.ratingview.R;
+
 
 /**
  * Created by Ornolfr on 10.06.2016.
